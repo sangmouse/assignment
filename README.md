@@ -1,8 +1,8 @@
-# Fabbi React Assignment 1
+#   React Assignment 1
 
 <!-- toc -->
 
-- [Fabbi React Assignment 1](#fabbi-react-assignment-1)
+- [  React Assignment 1](# -react-assignment-1)
   - [Requirements](#requirements)
     - [Must](#must)
     - [Optional](#optional)
